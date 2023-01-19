@@ -12,5 +12,5 @@ This template can be used to easily run rumbas in Github Codespaces or VSCode wi
 
 - Install the Dev Containers Extension
 - Place this repo on your computer:
-  - Either fork the repo and pull your fork (so you can also push your changes)
+  - Either Create a repository from this template by clicking on the green 'Use this template' button and choosing the 'Create a new repository' option and pull your fork (so you can also push your changes)
   - Or pull / download this repo (and you can't push your changes without setting up git or the remote)
