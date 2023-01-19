@@ -3,9 +3,10 @@ This template can be used to easily run rumbas in Github Codespaces or VSCode wi
 
 ## Github Codespaces
 
-- Fork this repository bij clicking on 'Fork' in the right upper corner
-- Go to the page of your fork
-- Click on the green 'Code' button, use the codespaces tab and click on the plus icon.
+- Create a repository from this template by clicking on the green 'Use this template' button and choosing the 'Create a new repository' option.
+  - Place it under your personal account, choose a name and whether it should by a private or public repo.
+- Github will show your new repo
+- Click on the green 'Code' button, use the codespaces tab and click on the plus icon or the green 'Create codespace on main' button.
 
 ## Visual Studio Code
 
